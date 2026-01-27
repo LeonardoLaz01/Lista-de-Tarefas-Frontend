@@ -11,8 +11,7 @@ front consumindo uma API, tratamento de requisições HTTP e deploy.
 
 ### 💻 Links
 
-- Solution URL: [Frontend Mentor Solution](https://www.frontendmentor.io/solutions/recipe-page-JYCe1_HeZJ)
-- Live Site URL: [Recipe page](https://leonardolaz01.github.io/Recipe-page/)
+-  Site URL: [Lista de Tarefas](https://leonardolaz01.github.io/Lista-de-Tarefas-Frontend/)
 
 ### 🧠 O que foi praticado neste projeto
 
