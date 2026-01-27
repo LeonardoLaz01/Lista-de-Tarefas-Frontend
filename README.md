@@ -5,42 +5,14 @@ Projeto desenvolvido com o objetivo de estudo e prática de integração entre f
 O foco do projeto foi entender o fluxo completo de uma aplicação web:
 front consumindo uma API, tratamento de requisições HTTP e deploy.
 
-🚀 Tecnologias Utilizadas
-Back-end
+### 📷 Screenshot
 
-ASP.NET Core (.NET 8)
+![Screenshot of the solution](./screenshot.png)
 
-Minimal API
+### 💻 Links
 
-C#
-
-API REST
-
-Front-end
-
-HTML
-
-CSS
-
-JavaScript (vanilla)
-
-Fetch API
-
-Deploy
-
-Back-end: Render
-
-Front-end: GitHub Pages
-
-⚙️ Funcionalidades
-
-Listar tarefas
-
-Criar nova tarefa
-
-Atualizar tarefa
-
-Remover tarefa
+- Solution URL: [Frontend Mentor Solution](https://www.frontendmentor.io/solutions/recipe-page-JYCe1_HeZJ)
+- Live Site URL: [Recipe page](https://leonardolaz01.github.io/Recipe-page/)
 
 🧠 O que foi praticado neste projeto
 
