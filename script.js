@@ -6,15 +6,10 @@ const form = document.getElementById("form");
 const input = document.getElementById("titulo");
 const lista = document.getElementById("lista");
 
-// Variável de estado:
-// se for null, estamos criando uma tarefa
-// se tiver um valor, estamos editando a tarefa com esse id
 let editandoId = null;
 
-// Evento disparado ao enviar o formulário
 form.addEventListener("submit", async (e) => {
-  // Evita que a página recarregue
-  e.preventDefault();
+  e.preventDefault(); //Evita recarregar a página
 
   const titulo = input.value.trim();
   if (!titulo) return;
