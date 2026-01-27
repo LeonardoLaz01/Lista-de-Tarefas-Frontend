@@ -1,5 +1,5 @@
 // URL base da API (backend)
-const API_URL = "http://localhost:5033/tarefas";
+const API_URL = "https://lista-de-tarefas-backend-jpqb.onrender.com/tarefas";
 
 // Captura dos elementos da página
 const form = document.getElementById("form");
