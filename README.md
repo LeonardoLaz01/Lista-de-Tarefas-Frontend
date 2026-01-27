@@ -15,9 +15,9 @@ front consumindo uma API, tratamento de requisições HTTP e deploy.
 
 ### 🧠 O que foi praticado neste projeto
 
--Criação de uma API REST com ASP.NET Core
--Uso de Minimal API
--Comunicação entre front-end e back-end via HTTP (GET, POST, PUT, DELETE)
--Consumo de API com JavaScript usando fetch
--Tratamento básico de erros
--Deploy de aplicação web (front e back separados)
+- Criação de uma API REST com ASP.NET Core
+- Uso de Minimal API
+- Comunicação entre front-end e back-end via HTTP (GET, POST, PUT, DELETE)
+- Consumo de API com JavaScript usando fetch
+- Tratamento básico de erros
+- Deploy de aplicação web (front e back separados)
