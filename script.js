@@ -6,6 +6,8 @@ const form = document.getElementById("form");
 const input = document.getElementById("titulo");
 const lista = document.getElementById("lista");
 
+// Variável de estado:
+// se for null, estamos criando uma tarefa, se tiver um valor, estamos editando a tarefa com esse id
 let editandoId = null;
 
 form.addEventListener("submit", async (e) => {
